@@ -1,19 +1,15 @@
-Coding is a very long and sometimes complicated task. The assignments we are given are supposed to be
-challenging and make us think. It may seem impossible at first, but with time, it does come together.
-Here are some of our recommendations; Start the assignment as soon as possible, give
-yourself enough time to be able to complete the assignment completely. Now that you are about to start,
-make sure you read the ENTIRE assignment before you start coding. Knowing what your code is expected to do
-will help with the overall task of the assignment. Next think about different functions you might need
-to be able to complete the task you are assigned. If all is failing, and you are stuck, no matter where in
-the process, use your TA's. They are there to help you, your TA's will probably be your best friends
-by the end of the semester. They are resourceful, helpful and very knowledgeable about the class you are in.
-Now some advice you hear a lot is "compile early and often" and "write test cases first". The pieces of
-advice are very helpful, so you don't have to look for small errors when there are hundreds of lines of code.
-Writing test checks if your function is running as expected. A test case that passes means that the expected
-output you gave the test worked. IF it fails there is a problem within the function, and you need to go back
-and fix it. Test cases are very resourceful and worth your time. If you are doing paired programming, it is
-very important to be on the same page. Working together at the same time is the vest way to work together.
-One person being the driver (writing the code) and one person being the viewer and observing the coder.
-It is important to stay locked in as the observer, becoming disjointed with the work is only the start
-of a downward spiral that is hard to recover from. When your assignment is complete, it is important to
-re-read the assignment one last time to make sure you hit very point and your assignment is 100% done.
+Coding can be a very long and sometimes complicated task. The assignments we are given are supposed to be
+challenge and make us think. It may seem impossible at first, but with time, it does come together.
+Our main programming technique is to start the assignment as soon as possible, give
+yourself more than enough time to be able to fully complete the assignment. We decided to incorporate this
+technique into our programming because it's importance was stressed at the start of the semester, and since
+then, this technique has improved our overall time management.Time management is a very important skill that
+you will have to learn; you are taking 3-5 classes a semester and as computer science students,
+most of our work will take time. Waiting until the last minute to do a coding assignment will only
+cause more stress. The feeling of have to code against the clock will only make you code worse. Having working,
+easy to read and organized code will only help you in the long run.
+Having more time to make sure your code is neat can only improve your learning and make you a better
+programmer. When your assignment is complete, it is important to re-read the assignment to
+make sure you hit every point and your assignment is 100% done. Hopefully since you started coding early
+you're at 100% done a day or two before the assignment is due instead of it being 30 minutes before
+the due date.
