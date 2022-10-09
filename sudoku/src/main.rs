@@ -26,14 +26,18 @@ fn main() {
 }
 
 fn valid_sudoku(board: Array2<csc411_image::Gray>) {
+    //{row/col/square : set of values}
     let mut row_set: HashMap<_, HashSet<_>> = HashMap::new();
     let mut col_set: HashMap<_, HashSet<_>> = HashMap::new();
     let mut squares: HashMap<_, HashSet<_>> = HashMap::new();
 
     for i in 0..board.height {
         for j in 0..board.width {
+
+            //check columns for duplicates
             match col_set.get_mut(&j) {
                 Some(n) => {
+                    //if number in set of this column, exit with 1
                     if n.insert(board.get(i, j).value) == false {
                         std::process::exit(1);
                     };
@@ -44,6 +48,8 @@ fn valid_sudoku(board: Array2<csc411_image::Gray>) {
                     col_set.insert((&j).to_owned(), values);
                 }
             }
+
+            //check rows for duplicates
             match row_set.get_mut(&i) {
                 Some(n) => {
                     if n.insert(board.get(i, j).value) == false {
@@ -56,6 +62,9 @@ fn valid_sudoku(board: Array2<csc411_image::Gray>) {
                     row_set.insert((&i).to_owned(), values);
                 }
             }
+
+            //check squares for duplicates
+            //tuple of i/3 and j/3 will give a unique identifier for each square
             match squares.get_mut(&(i/3, j/3)) {
                 Some(n) => {
                     if n.insert(board.get(i, j).value) == false {
