@@ -20,6 +20,10 @@ fn main() {
         gray_board.height as usize,
         gray_board.pixels);
 
+    if gray_board.width != 9 || gray_board.height != 9{
+        std::process::exit(1);
+    }
+
     valid_sudoku(board);
     std::process::exit(0);
 
@@ -38,7 +42,10 @@ fn valid_sudoku(board: Array2<csc411_image::Gray>) {
             match col_set.get_mut(&j) {
                 Some(n) => {
                     //if number in set of this column, exit with 1
-                    if n.insert(board.get(i, j).value) == false {
+                    if n.insert(board.get(i, j).value) == false ||
+                        board.get(i, j).value < 1 ||
+                        board.get(i, j).value > 9 {
+
                         std::process::exit(1);
                     };
                 }
