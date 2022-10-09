@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/sudoku/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/sudoku/target" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/adler32-15825d2229a1b2c7" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/adler-519bd4a5743a8a7d" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/autocfg-23db86c6f027f4d1" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/bitflags-f8b17cd3bca6c219" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/bytemuck-80053eb252e7844a" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/byteorder-dceac23c7f198773" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/cfg-if-6fa32203053f1f8e" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/color_quant-bce2ec524dd01ac8" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/crc32fast-876adbd397cff703" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/crc32fast-a62dc5fa8d8b155d" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/crossbeam-epoch-a8d2b1b45377f3fd" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/crossbeam-utils-33f9b770e51bf1f4" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/crossbeam-utils-bb2b52ed3490a0b8" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/either-d984f1cf3c543df1" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/libc-88344ba0a9505cab" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/libc-c7af4183ce46e1d2" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/memoffset-3bfc25e7baabb4ef" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/miniz_oxide-076e3ae4923f6659" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/num-integer-74e0f2fd1a23a2a7" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/num-iter-db3cef4cfd7d031f" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/num-rational-99d11a14c1a089d1" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/num-traits-ddd5cd335c3c9acf" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/rayon-302c8d4f6323537a" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/rayon-core-d4a396c156f5fd94" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/rayon-core-e3f690dbb4a26023" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/scoped_threadpool-330758a40736fd3f" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/scopeguard-e8b4b010a2a5cd25" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/.fingerprint/weezl-9a041b671e622cc2" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/build/num-integer-3ea17a77ca653b82/out" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/build/crc32fast-876adbd397cff703" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/build/crc32fast-a62dc5fa8d8b155d" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/build/crossbeam-epoch-a8d2b1b45377f3fd" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/build/crossbeam-utils-33f9b770e51bf1f4" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/build/crossbeam-utils-bb2b52ed3490a0b8" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/build/libc-88344ba0a9505cab" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/build/libc-c7af4183ce46e1d2" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/build/memoffset-3bfc25e7baabb4ef" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/build/miniz_oxide-076e3ae4923f6659" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/build/num-integer-74e0f2fd1a23a2a7" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/build/num-iter-db3cef4cfd7d031f" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/build/num-rational-99d11a14c1a089d1" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/build/num-traits-ddd5cd335c3c9acf" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/build/rayon-302c8d4f6323537a" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/build/rayon-core-d4a396c156f5fd94" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/build/rayon-core-e3f690dbb4a26023" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/array2/target/release/incremental" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

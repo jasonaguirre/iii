@@ -17,8 +17,8 @@ impl<T:Clone> Array2<T> {
     pub fn from_col_major(width: usize, height: usize, data: Vec<T>) -> Self {
         //!This constructor will take data in column major form and construct a 2array
         let mut data_col_major = vec![];
-        for i in 0..height{
-            for j in 0..width{
+        for i in 0..width{
+            for j in 0..height{
                 data_col_major.push(data[i * width + j].clone())
             }
         }

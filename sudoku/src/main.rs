@@ -59,7 +59,9 @@ fn valid_sudoku(board: Array2<csc411_image::Gray>) {
             //check rows for duplicates
             match row_set.get_mut(&i) {
                 Some(n) => {
-                    if n.insert(board.get(i, j).value) == false {
+                    if n.insert(board.get(i, j).value) == false ||
+                        board.get(i, j).value < 1 ||
+                        board.get(i, j).value > 9{
                         std::process::exit(1);
                     };
                 }
@@ -74,7 +76,9 @@ fn valid_sudoku(board: Array2<csc411_image::Gray>) {
             //tuple of i/3 and j/3 will give a unique identifier for each square
             match squares.get_mut(&(i/3, j/3)) {
                 Some(n) => {
-                    if n.insert(board.get(i, j).value) == false {
+                    if n.insert(board.get(i, j).value) == false ||
+                        board.get(i, j).value < 1 ||
+                        board.get(i, j).value > 9 {
                         std::process::exit(1);
                     };
                 }

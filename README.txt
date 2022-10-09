@@ -9,6 +9,7 @@ Implemented:
 - iter_row_major
 - iter_col_major
 - get
+- sudoku checker
 
 Design Checklist:
 
@@ -48,4 +49,4 @@ which should then correspond to the value of input[index].
 We will want to increment the column by one once row == number of rows - 1.
 
 Time:
- We worked for a total of about 
+We worked for a total of about 20 hours on this assignments
