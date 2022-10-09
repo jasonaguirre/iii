@@ -1,1 +1,19 @@
-hello
+Coding is a very long and sometimes complicated task. The assignments we are given are suppose to be
+challenung and make us think. It may seem impposible at first, but with time, it does come together.
+Here are some of our recomdations right off the bat. Start the assignment as soon as poosible, give
+yourself enough time to be able to complete the assignment to full. Now that you are about to start,
+make sure you read the ENTIRE assignemrnt before you start coding. Knowing what your code is expected to do, 
+will help with the the overall task of the assignment. Next think about different functions you might need 
+to be able to complete the task you are assigned. If all is failing and you are stuck, no matter where in 
+the process, use your TA's. They are there to help you, your TA's will prabably be your bestfriends
+by the end of the semester. The are resourceful, helpful and very knowledgeable about the clsss you are in.
+Now some advice you hear a lot is "compile early and often" and "write test cases first". Thee pieces of
+advice are very helpful, so you don't have to look for small erros when there are hundreds of lines of code.
+Writing test checks if your function is running as expected. A test case that passes means that the expected
+output you gave the test worked. IF it fails there is a probable within the function and you need to go back
+and fix it. Test cases are very resourceful and worth your time. If you are doing paired proggramming, it is
+very important to be on the same page. Working togther at the same time is the vest way to work togther.
+One person being the driver (writing the code) and one person being the viewer and observing the coder.
+It is important to stay locked in as the observer, becoming disjointed with the work is only the start
+of a downward spiral that is hard to recover from. When your assignemnt is complete, it is important to
+re-read the assignment one last time to make sure you hit very point and your assignemnt is 100% done.
