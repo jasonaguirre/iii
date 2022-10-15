@@ -49,4 +49,4 @@ which should then correspond to the value of input[index].
 We will want to increment the column by one once row == number of rows - 1.
 
 Time:
-We worked for a total of about 20 hours on this assignments
+This assignment took about 20 hours to complete
